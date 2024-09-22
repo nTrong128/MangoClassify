@@ -1,6 +1,6 @@
 ## FOLDER STRUCTURE:
 
-![alt text](./img_source/tree.png)
+![alt text](./img_source/image.png)
 
 ## Run cell by cell this program: [Train](./training/train.ipynb)
 
