@@ -1,5 +1,14 @@
 video/
+video_test/
 raw/
+raw1/
+raw_to_test1/
+
+raw_to_test/
 dataset/
 
 venv/
+venv/
+.venv/
+
+model/output/

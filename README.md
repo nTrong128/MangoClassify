@@ -2,7 +2,7 @@
 
 ![alt text](./img_source/image.png)
 
-## Run cell by cell this program: [Train](./training/train.ipynb)
+## Run cell by cell one of these model : [model](./training/)
 
 # You should create venv for your project and install the following package:
 
