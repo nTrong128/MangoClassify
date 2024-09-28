@@ -2,7 +2,7 @@
 
 ![alt text](./img_source/image.png)
 
-## Run cell by cell one of these model : [model](./training/)
+## Run cell by cell one of these model : [model](./model/)
 
 # You should create venv for your project and install the following package:
 
