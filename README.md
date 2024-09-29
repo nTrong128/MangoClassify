@@ -1,6 +1,6 @@
 ## FOLDER STRUCTURE:
 
-![alt text](./img_source/image.png)
+![alt text](./img_source/image2.png)
 
 ## Run cell by cell one of these model : [model](./model/)
 
