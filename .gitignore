@@ -12,3 +12,4 @@ venv/
 .venv/
 
 model/output/
+model_others/output/
