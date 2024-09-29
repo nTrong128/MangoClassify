@@ -22,7 +22,7 @@ pip install scikit-learn tensorflow keras matplotlib seaborn pandas numpy
 
 `There are some others package you have to install while runnning the experiment. You should read the log or error from your terminal or jupyter notebook output to checking for missing packages.`
 
-## datasets: [Link to dataset](https://drive.google.com/drive/folders/1tjwnl7I6nLZbgV5f4Er1k9-H4ua6qzjK?usp=sharing)
+## datasets: [Link to train set](https://drive.google.com/file/d/1vsbHGtdePzGWAtO-A06kCmxhszG8TPT2/view), [Link to test set](https://drive.google.com/file/d/178lJFzFRqS9olO1sE0bLTFBI_h89DnuW/view)
 
 Video is a raw folder which contain unprocessed video. You should run [extractImgFromVideo](./utils/extractImgFromVideo.py) to extract image from raw video. You can change frame skip as you wish.
 
