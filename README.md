@@ -24,8 +24,6 @@ pip install scikit-learn tensorflow keras matplotlib seaborn pandas numpy
 
 ## datasets: [Link to train set](https://drive.google.com/file/d/1vsbHGtdePzGWAtO-A06kCmxhszG8TPT2/view), [Link to test set](https://drive.google.com/file/d/178lJFzFRqS9olO1sE0bLTFBI_h89DnuW/view)
 
-Video is a raw folder which contain unprocessed video. You should run [extractImgFromVideo](./utils/extractImgFromVideo.py) to extract image from raw video. You can change frame skip as you wish.
+The Video folder contains unprocessed videos. You should run the [extractImgFromVideo](./utils/extractImgFromVideo.py) script to extract images from the raw videos into the dataset folder. You can adjust the frame skip as needed. There are two datasets: one for training and the other for testing. You should extract images for both video folders.
 
-After extract images from videos. You should have raw folder contain images from every class in this project. You should use [split_data](./utils/split_data.py) to split the dataset into train, test and validation set.
-After that you can run the experiment.
-`Some of the function may not work correctly that force you have to create folder yourself, if you're encouted any error when running those two utils file, you should create folder by yourself.`
+`After that, you can run the experiment. Note that some functions may not work correctly, which may require you to create folders manually. If you encounter any errors while running the two utility files, you should create the folders yourself.`
